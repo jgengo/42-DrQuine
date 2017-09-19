@@ -31,4 +31,5 @@ fixes !
 - [ ] Sully
 
 # Credits
+* [cbarbier](https://github.com/cbarbier) - Cedric Barbier
 * [aribeiro](https://github.com/AlexandraRibeiro) - Alexandra Ribeiro
