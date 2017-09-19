@@ -18,8 +18,14 @@ fixes !
 - [x] Grace
 - [x] Sully
 
-## Partie bonus (en Ruby)
+## Partie bonus 
 
+#### en JS:
+- [x] Quine
+- [x] Grace
+- [x] Sully
+
+#### en Ruby:
 - [ ] Quine
 - [ ] Grace
 - [ ] Sully
