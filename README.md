@@ -26,7 +26,7 @@ fixes !
 - [x] Sully
 
 #### en Ruby:
-- [ ] Quine
+- [x] Quine
 - [ ] Grace
 - [ ] Sully
 
